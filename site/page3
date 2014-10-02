@@ -1,0 +1,27 @@
+<!doctpye html>
+<html> 
+	<title>Team 3167 - Sponsors</title>
+
+	<link href="file:///C:/Users/liamh_000/Desktop/Important%20Files/Coding/HTML/main.css" rel="stylesheet" />
+	<head><center><h1><i>Team 3167 - Sponsors</i></center></head></h1>
+	<body>
+		
+	<p class="one">We have a few different sponsors here at Team 3167. Our main two are:</p>
+	<ul>
+		<li>ETC</li>
+		<li>Boeing</li>
+	</ul>
+
+	</body>
+		<body>	
+			<h1><b><center><i>Other Places</center></b></h1> 
+			<ul></i>
+				<li><a href="index.html">Homepage</a></li>
+				<li><a href="page2.html">Information</a></li>
+				<li>Sponsors</li>
+
+			</ul>
+
+
+		</body>
+</html> 
